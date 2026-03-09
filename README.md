@@ -39,7 +39,7 @@
       <h1><a href="https://asdsa22.github.io/dlrjfgotjrgksmsqkqh/">dlrjfgotjrgksmsqkqh</a></h1>
       
 
-      <p>미네르바계산기</p>
+      <p>빅맥 경험치계산기</p>
 <html lang="ko">
 <head>
   <meta charset="utf-8" />
