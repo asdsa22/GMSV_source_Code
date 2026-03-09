@@ -560,7 +560,7 @@
     return {
       presets: [
         {"name": "100제 고순", "value": 800000},
-        {"name": "120제 고순", "value": 1},
+        {"name": "120제 고순", "value": 1190000},
         {"name": "100제 저순", "value": 1},
         {"name": "120제 저순", "value": 1}
       ]
