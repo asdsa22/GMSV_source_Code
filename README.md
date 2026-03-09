@@ -617,12 +617,10 @@
   function defaultData(){
     return {
       presets: [
-            {"name": "30제 채석장", "value": 290000},
-            {"name": "60제 폐광", "value": 520000},
-            {"name": "80제 눈동", "value": 885000},
-            {"name": "100제 강동", "value": 1500000},
-            {"name": "120제 콧동", "value": 2300000},
-            {"name": "130제 어비스", "value": 3640000},
+            {"name": "100제 고순", "value": 800000},
+            {"name": "120제 고순", "value": 1},
+            {"name": "100제 저순", "value": 1},
+            {"name": "120제 저순", "value": 1},
         // 여기 추가하면 항상 기본으로 뜸
       ]
     };
